@@ -1,4 +1,4 @@
-# GUI
+# GUI | First year Enginnering Chemistry Project
 🚀 Chemical Kinetics Helper GUI Project
 
 Excited to introduce my latest endeavor, the Chemical Kinetics Helper GUI! 🌐💡
